@@ -1,0 +1,11 @@
+﻿@{
+	ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<form method="post" asp-action="Showroles" class="form form-control">
+
+	<select name="userid" asp-items="ViewBag.users" class="form-check form-control"></select>
+	<input type="submit" value="Add" class="btn btn-outline-primary"/>
+</form>
