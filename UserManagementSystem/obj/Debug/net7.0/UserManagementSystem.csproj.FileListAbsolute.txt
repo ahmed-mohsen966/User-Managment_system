@@ -282,3 +282,4 @@ G:\MVC\UserManagementSystem\UserManagementSystem\bin\Debug\net7.0\runtimes\unix\
 G:\MVC\UserManagementSystem\UserManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 G:\MVC\UserManagementSystem\UserManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 G:\MVC\UserManagementSystem\UserManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\MVC\UserManagementSystem\UserManagementSystem\bin\Debug\net7.0\libman.json

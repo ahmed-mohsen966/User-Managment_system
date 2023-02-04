@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "suVnrSQifJJFK03G0PMVIprVc8OqAAckY8f7Gj2Z6uc=",
+  "Hash": "2/gSHi8LYFHfNwosDTIFLi6EB/w7sJPBiWMPA7kG9nE=",
   "Source": "UserManagementSystem",
   "BasePath": "_content/UserManagementSystem",
   "Mode": "Default",
@@ -1137,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "G:\\MVC\\UserManagementSystem\\UserManagementSystem\\wwwroot\\lib\\bootbox.js\\bootbox.min.js",
+      "SourceId": "UserManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\MVC\\UserManagementSystem\\UserManagementSystem\\wwwroot\\",
+      "BasePath": "_content/UserManagementSystem",
+      "RelativePath": "lib/bootbox.js/bootbox.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootbox.js\\bootbox.min.js"
     },
     {
       "Identity": "G:\\MVC\\UserManagementSystem\\UserManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
